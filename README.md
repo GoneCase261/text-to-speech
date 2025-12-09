@@ -1,1 +1,1 @@
-type down to here the bot spk
+type down to hear the bot spk
