@@ -69,9 +69,6 @@ project-root/
 ├── babel.config.json
 ├── .gitignore
 └── README.md
-📸 Demo
-
-(Add screenshots or screen recording GIF here)
 
 Example:
 
